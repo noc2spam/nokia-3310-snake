@@ -11,10 +11,15 @@ To run the game, simply open the index.html file in a web browser. The game will
 You can customize the game further by modifying the following parameters in the JavaScript code:
 
 `cellSize`: The size of each cell in pixels.
+
 `numCells`: The number of cells in the grid.
+
 `snake`: The initial position and length of the snake.
+
 `food`: The initial position of the food.
+
 `loop`: The speed of the game loop in milliseconds.
+
 You can also add sound effects, scoring, and other features to make the game more interesting.
 
 ## Contributing
